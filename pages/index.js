@@ -1,3 +1,7 @@
 export default function Home() {
-  return <>{/* add your code here */}</>;
+  return (
+    <div>
+      <h1>First Page of Next JS</h1>
+    </div>
+  );
 }
